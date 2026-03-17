@@ -5,7 +5,7 @@ from pydub import AudioSegment
 # -----------------------------
 # SETTINGS (TUNE THESE)
 # -----------------------------
-INPUT_VIDEO = "stream.mp4"
+INPUT_VIDEO = "Insert Video Here" (Make sure it's in the same folder as the code)
 OUTPUT_PREFIX = "clip"
 CLIP_DURATION = 15          # seconds per clip
 THRESHOLD_MULTIPLIER = 3.5 # higher = fewer clips
